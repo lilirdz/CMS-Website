@@ -1,0 +1,71 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+
+.jumbotron {
+background-image:url('/Users/lili/Desktop/CMS Website/cms.jpeg');
+background-position: center;
+height: 250px;
+background-repeat: no-repeat;
+background-size:cover;
+margin: 0;	
+
+}
+
+
+
+.jumbotron h1 {
+color:#fff;
+font-size: 48px;
+font-family: 'Shift', sans-serif;
+font-weight: bold;	
+text-align: center;
+}
+
+nav{
+font-size: 16px;
+text-align:center;
+background-color:#66CCFF;
+}
+
+nav li{
+display:inline-block;	
+color: white;
+}
+
+nav a{
+display:inline-block;
+padding:10px;
+color: white;	
+}
+
+nav a:hover {
+	color: #fff;
+}
+
+.our-team{
+text-align:center;
+margin-top: 50px;
+margin-bottom:50px; 	
+}
+
+.student-assistants{
+text-align:center;	
+}
+
+footer{
+text-align:center;
+background-color:#66CCFF;
+color: #fff;
+	
+}
+
+footer li{
+color: #fff;	
+}
+
+footer a{
+display: inline-block;
+color: #fff;
+}
